@@ -38,7 +38,7 @@
   </extensions>
   <system-properties>
     <property name="org.apache.coyote.http11.Http11Protocol.COMPRESSION" value="on"/>
-    <property name="kie.maven.settings.custom" value="${env.$OPENSHIFT_DEPLOYMENTS_DIR}/app-deployments/current/repo/deployments/settings.xml"/>
+ <!--property name="kie.maven.settings.custom" value="${env.$OPENSHIFT_DEPLOYMENTS_DIR}/app-deployments/current/repo/deployments/settings.xml"/> -->
   </system-properties>
   <management>
     <management-interfaces>
