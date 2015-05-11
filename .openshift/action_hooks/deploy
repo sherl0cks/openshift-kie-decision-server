@@ -1,0 +1,3 @@
+#/bin/bash
+
+mv -f $OPENSHIFT_HOMEDIR/app-deployments/current/repo/deployments/settings.xml $OPENSHIFT_HOMEDIR/.m2/settings.xml
